@@ -1,6 +1,6 @@
 # Project Frisbee
 
-Bu proje, Unity ile geliştirilen bir 3D **Frisbee kontrol oyunu**dur. Oyuncu bir frisbee'yi WASD tuşlarıyla kontrol eder, çeşitli yeteneklerle engellerden kaçar ve enerji halkalarından geçerek ilerler.
+Bu proje, Unity ile geliştirilen bir 3D **Frisbee kontrol oyunu**dur. 
 
 ## Oynanış Özellikleri
 
