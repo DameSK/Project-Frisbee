@@ -1,4 +1,4 @@
-# Project Frisbee
+# Project Plane
 
 Bu proje, Unity ile geliştirilen bir 3D **uçak kontrol oyunu**dur. 
 
