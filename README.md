@@ -1,10 +1,10 @@
-# Project Plane
+# Project Frisbee
 
-Bu proje, Unity ile geliştirilen bir 3D **uçak kontrol oyunu**dur. 
+Bu proje, Unity ile geliştirilen bir 3D **frisbee kontrol oyunu**dur. 
 
 ## Oynanış Özellikleri
 
-- WASD tuşlarıyla uçağı yönlendir.
+- WASD tuşlarıyla frisbee'yi yönlendir.
 - Space ile yukarı, Ctrl ile aşağı hareket.
 - Dash (hızlı atılma) özelliği ile engellerden kaç.
 - Flip (takla) hareketiyle çevik manevralar yap.
